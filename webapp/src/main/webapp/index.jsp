@@ -1,239 +1,125 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Gray Box Theme - Portfolio Page</title> 
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<!--
-Template 2032 Gray Box
-http://www.tooplate.com/view/2032-gray-box
--->
-<link href="tooplate_style.css" rel="stylesheet" type="text/css" />
 
-	<script language="javascript" type="text/javascript">
-		function clearText(field)
-		{
-			if (field.defaultValue == field.value) field.value = '';
-			else if (field.value == '') field.value = field.defaultValue;
-		}
-	</script>
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Live demo for Multipurpose Portfolio By WINK Website Template #101269</title>
+<meta property="og:title" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
+<meta name="twitter:title" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
+<meta name="og:image:alt" content="Live demo for Multipurpose Portfolio By WINK Website Template #101269"/>
+      <meta name="robots" content="noindex,nofollow">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta http-equiv="x-dns-prefetch-control" content="on">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="msapplication-config" content="/browserconfig.xml">
+  <meta name="pinterest-logo" content="https://s3sf.tmimgcdn.com/pinterest-logo.png">
+  <meta name="theme-color" content="#2196f3">
+  <meta property="og:site_name" content="TemplateMonster"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@templatemonster"/>
+  <meta name="twitter:creator" content="@templatemonster"/>
+  <meta property="og:type" content="page"/>
+  <meta name="description" content="Multipurpose Portfolio By WINK Website Template#101269">
+  <meta property="og:description" content="Multipurpose Portfolio By WINK Website Template#101269">
+  <meta property="twitter:description" content="@templatemonster Multipurpose Portfolio By WINK Website Template#101269">
+  <meta property="og:image" content="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
+  <meta property="twitter:image" content="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
+  <link property="image_src" href="https://s.tmimgcdn.com/scr/1200x627/101200/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="627">
+  <meta property="fb:app_id" content="128293383907353"/>
+        <!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MS2BNB');
+</script>
+<!-- End Google Tag Manager -->
+    <link href="//www.templatemonster.com/assets/css/demo-7498d888d7421dc36941.css" rel="stylesheet">  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript>  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS2BNB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div class="wrap">
+    <header class="header" id="frame-panel">
+  <a href="https://www.templatemonster.com/website-templates/101269.html" class="back-to-product">
+    <span class="back-to-product-icon"></span>
+    Multipurpose Portfolio By WINK Website Template  </a>
+  <div class="devices devices-static" id="devices" data-translations="{&quot;desktop&quot;:&quot;Desktop&quot;,&quot;tablet&quot;:&quot;Tablet&quot;,&quot;smartphone&quot;:&quot;Mobile&quot;}"></div>
+  <div class="header-buttons">
+    <div class="add-to-cart" id="add-to-cart"
+      data-translations="{&quot;label&quot;:&quot;Buy Now&quot;,&quot;modalLabel&quot;:&quot;Add to Cart&quot;,&quot;servicesTitle&quot;:&quot;Recommended services available for this item&quot;,&quot;freeTitle&quot;:&quot;Free Product&quot;}"
+      data-product-id="101269"
+      data-product-title="Multipurpose Portfolio By WINK Website Template"
+      data-type-id="1"
+      data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Personal license&quot;,&quot;description&quot;:&quot;This license can be used only for one personal website. With this license, you can&#039;t resell or redistribute the template or the end product based on it&quot;},&quot;prices&quot;:{&quot;regular&quot;:41,&quot;regularLabel&quot;:&quot;$41&quot;,&quot;discount&quot;:41,&quot;discountLabel&quot;:&quot;$41&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Commercial license&quot;,&quot;description&quot;:&quot;With this license, you and your clients can create up to five different websites. The license allows you to transfer or resell the end products (websites based on this template)&quot;},&quot;prices&quot;:{&quot;regular&quot;:53,&quot;regularLabel&quot;:&quot;$53&quot;,&quot;discount&quot;:53,&quot;discountLabel&quot;:&quot;$53&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}}]"
+      data-services="[{&quot;id&quot;:772,&quot;translates&quot;:{&quot;title&quot;:&quot;Must-Have Launch Pack&quot;},&quot;prices&quot;:{&quot;regular&quot;:79,&quot;regularLabel&quot;:&quot;$79&quot;,&quot;discount&quot;:24,&quot;discountLabel&quot;:&quot;$24&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:772,&quot;price&quot;:0.24,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website Templates: Must-Have Pack&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:888,&quot;translates&quot;:{&quot;title&quot;:&quot;Classic Website Customization Service&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:149,&quot;discountLabel&quot;:&quot;$149&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:888,&quot;price&quot;:1.49,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website and Joomla Templates: Classic Website Customization Service&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:2,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1517,&quot;translates&quot;:{&quot;title&quot;:&quot;All-in-One Website&quot;},&quot;prices&quot;:{&quot;regular&quot;:1342,&quot;regularLabel&quot;:&quot;$1,342&quot;,&quot;discount&quot;:399,&quot;discountLabel&quot;:&quot;$399&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1517,&quot;price&quot;:3.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: All-in-One Website (HTML) (0.42 - moto; 0.58 - tt)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:3,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1811,&quot;translates&quot;:{&quot;title&quot;:&quot;Add Live Drag&amp;Drop WP Builder by Elementor&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:199,&quot;discountLabel&quot;:&quot;$199&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1811,&quot;price&quot;:1.99,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: HTML: Add Live Drag&amp;Drop WP Builder by Elementor&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:4,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1173,&quot;translates&quot;:{&quot;title&quot;:&quot;Extended On-Page SEO Optimization&quot;},&quot;prices&quot;:{&quot;regular&quot;:299,&quot;regularLabel&quot;:&quot;$299&quot;,&quot;discount&quot;:299,&quot;discountLabel&quot;:&quot;$299&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1173,&quot;price&quot;:2.99,&quot;brand&quot;:&quot;FM&quot;,&quot;category&quot;:&quot;FM: Extended On-Page SEO Optimization (preview)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:5,&quot;list&quot;:&quot;Type - Offers&quot;}}]"
+      data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:13878,&quot;translates&quot;:{&quot;title&quot;:&quot;Get 6 more months of support and save $17&quot;,&quot;description&quot;:&quot;With a product you will get 6 months of support from the author. To know more about what is included, please read the &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;support policy&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:29,&quot;regularLabel&quot;:&quot;$29&quot;,&quot;discount&quot;:12,&quot;discountLabel&quot;:&quot;$12&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:13878,&quot;price&quot;:0.12,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
+      data-free="{&quot;enable&quot;:false}"
+      data-is-state-sale="true"
+      data-is-default-paid-support-on="true"
+      data-product-gee="{&quot;name&quot;:&quot;Website template&quot;,&quot;id&quot;:101269,&quot;price&quot;:0.41,&quot;brand&quot;:&quot;Website templates&quot;,&quot;category&quot;:&quot;Artist Portfolio Templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}">
+    </div>
+          <a
+        href="https://www.templatemonster.com/monsterone/tm-membership/?id=101269"
+        target=""
+        rel="nofollow"
+        class="header-btn header-btn_membership"
+      >
+        <img
+          class="header-btn-icon inline-svg"
+          data-src="/assets/icons/monsterEye.svg"
+          alt="monsterEye"
+        />
+        Get Unlimited Downloads      </a>
+    
+    <div id="cart" class="header-button header_cart-demo cart-button"
+      data-cart-translations="{&quot;cartTitle&quot;:&quot;Shopping Cart&quot;,&quot;titleServices&quot;:&quot;Recommended Customization Services for This Product&quot;,&quot;servicesDetailsLabel&quot;:&quot;Details&quot;,&quot;labelBack&quot;:&quot;Back to All Services&quot;,&quot;cartTop&quot;:&quot;You added to cart&quot;,&quot;continueLabel&quot;:&quot;Continue Shopping&quot;,&quot;licenseCaption&quot;:&quot;License type&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Go To Cart&quot;,&quot;priceButtonLabel&quot;:&quot;Checkout Now&quot;,&quot;freeLabel&quot;:&quot;Free&quot;,&quot;feeCaption&quot;:&quot;Handling fee&quot;,&quot;labelCusomersChoice&quot;:&quot;Customers&#039; #1 choice&quot;}"
+      aria-label="Cart"
+      title="Cart"
+    >
+      <i class="header-button-icon header-button-icon_cart" data-name="cartBold" data-plasma-icon></i>
+    </div>
 
-<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
-
-	<script type="text/javascript" src="scripts/jquery.min.js"></script>
-	<script type="text/javascript" src="scripts/ddsmoothmenu.js">
-
-	/*****************
-	* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-	* This notice MUST stay intact for legal use
-	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-	*****************/
-
-	</script>
-
-	<script type="text/javascript">
-
-		ddsmoothmenu.init({
-			mainmenuid: "tooplate_menu", //menu DIV id
-			orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
-			classname: 'ddsmoothmenu', //class added to menu's outer DIV
-			//customtheme: ["#1c5a80", "#18374a"],
-			contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-		})
-
-	</script>
-
-<!--////// CHOOSE ONE OF THE 3 PIROBOX STYLES  \\\\\\\-->
-<link href="css_pirobox/white/style.css" media="screen" title="shadow" rel="stylesheet" type="text/css" />
-<!--<link href="css_pirobox/white/style.css" media="screen" title="white" rel="stylesheet" type="text/css" />
-<link href="css_pirobox/black/style.css" media="screen" title="black" rel="stylesheet" type="text/css" />-->
-<!--////// END  \\\\\\\-->
-
-<!--////// INCLUDE THE JS AND PIROBOX OPTION IN YOUR HEADER  \\\\\\\-->
-	<script type="text/javascript" src="scripts/jquery.min.js"></script>
-	<script type="text/javascript" src="scripts/piroBox.1_2.js"></script>
-	<script type="text/javascript">
-	$(document).ready(function() {
-	$().piroBox({
-			my_speed: 600, //animation speed
-			bg_alpha: 0.5, //background opacity
-			radius: 4, //caption rounded corner
-			scrollImage : false, // true == image follows the page, false == image remains in the same open position
-			pirobox_next : 'piro_next', // Nav buttons -> piro_next == inside piroBox , piro_next_out == outside piroBox
-			pirobox_prev : 'piro_prev',// Nav buttons -> piro_prev == inside piroBox , piro_prev_out == outside piroBox
-			close_all : '.piro_close',// add class .piro_overlay(with comma)if you want overlay click close piroBox
-			slideShow : 'slideshow', // just delete slideshow between '' if you don't want it.
-			slideSpeed : 4 //slideshow duration in seconds(3 to 6 Recommended)
-	});
-	});
-	</script>
-<!--////// END  \\\\\\\-->
-</head>
-<body>
-
-	<div id="tooplate_body_wrapper">
-		<div id="tooplate_wrapper">
-			
-			<div id="tooplate_header">
-				
-				<div id="tooplate_top">
-					<div id="tooplate_login">
-						
-						<form action="#" method="get">
-						  <input type="text" value="username" name="q" size="10" id="username" title="username" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
-						  <input type="password" value="password" name="q" size="10" id="password" title="password" onfocus="clearText(this)" onblur="clearText(this)" class="txt_field" />
-						  <input type="submit" name="Search" value="" alt="Search" id="searchbutton" title="Search" class="sub_btn"  />
-						</form>
-					
-					</div>
-				</div>
-						
-				<div id="site_title"><h1><a href="#">Gray Box</a></h1></div>
-				
-				<div id="tooplate_menu" class="ddsmoothmenu">
-					<ul>
-						<li><a href="index.html">Home<span></span></a></li>
-						
-						<li><a href="about.html">About Us<span></span></a>
-							<ul>
-								<li><a href="#">SOLO 1</a></li>
-								<li><a href="#">SOLO 2</a></li>
-								<li><a href="#">SOLO 3</a></li>
-						  </ul>
-						</li>
-						
-						<li><a href="portfolio.html" class="selected">Portfolio<span></span></a>
-							<ul>
-								<li><a href="#">SOLO 1</a></li>
-								<li><a href="#">SOLO 2</a></li>
-								<li><a href="#">SOLO 3</a></li>
-								<li><a href="#">Sub menu 4</a></li>
-								<li><a href="#">Sub menu 5</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="blog.html">Blog<span></span></a></li>
-						<li><a href="contact.html">Contact<span></span></a></li>
-					</ul>
-					
-					<br style="clear: left" />
-				
-				</div> <!-- end of tooplate_menu -->
-			</div> <!-- end of tooplate_header -->
-			
-			<div id="tooplate_main">
-				<h2>Our Portfolio</h2>
-					<p><em>Morbi risus augue, dictum nec sollicitudin vitae, ultrices a massa. Nunc sit amet aliquam nunc. In eros neque, lacinia ac placerat quis, egestas a est. Fusce a vestibulum quam. Nullam ut vehicula nibh. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</em></p>   
-					
-					<div class="cleaner h30"></div>
-					
-					<ul id="gallery">
-						<li><a href="#"><img src="images/gallery/01.jpg" alt="Image 01" /></a></li>
-						<li><a href="#"><img src="images/gallery/02.jpg" alt="Image 02" /></a></li>
-						<li><a href="#"><img src="images/gallery/03.jpg" alt="Image 03" /></a></li>
-						<li><a href="#"><img src="images/gallery/04.jpg" alt="Image 04" /></a></li>
-						<li><a href="#"><img src="images/gallery/05.jpg" alt="Image 05" /></a></li>
-						<li><a href="#"><img src="images/gallery/06.jpg" alt="Image 06" /></a></li>
-						<li><a href="#"><img src="images/gallery/07.jpg" alt="Image 07" /></a></li>
-						<li><a href="#"><img src="images/gallery/08.jpg" alt="Image 08" /></a></li>
-						<li><a href="#"><img src="images/gallery/09.jpg" alt="Image 09" /></a></li>
-						<li><a href="#"><img src="images/gallery/10.jpg" alt="Image 10" /></a></li>
-						<li><a href="#"><img src="images/gallery/11.jpg" alt="Image 11" /></a></li>
-						<li><a href="#"><img src="images/gallery/12.jpg" alt="Image 12" /></a></li>
-						<li><a href="#"><img src="images/gallery/13.jpg" alt="Image 13" /></a></li>
-						<li><a href="#"><img src="images/gallery/14.jpg" alt="Image 14" /></a></li>
-						<li><a href="#"><img src="images/gallery/15.jpg" alt="Image 15" /></a></li>
-						<li><a href="#"><img src="images/gallery/04.jpg" alt="Image 16" /></a></li>
-						<li><a href="#"><img src="images/gallery/05.jpg" alt="Image 17" /></a></li>
-						<li><a href="#"><img src="images/gallery/06.jpg" alt="Image 18" /></a></li>
-						<li><a href="#"><img src="images/gallery/07.jpg" alt="Image 19" /></a></li>
-						<li><a href="#"><img src="images/gallery/08.jpg" alt="Image 20" /></a></li>
-						<li><a href="#"><img src="images/gallery/09.jpg" alt="Image 21" /></a></li>
-						<li><a href="#"><img src="images/gallery/01.jpg" alt="Image 22" /></a></li>
-						<li><a href="#"><img src="images/gallery/02.jpg" alt="Image 23" /></a></li>
-						<li><a href="#"><img src="images/gallery/03.jpg" alt="Image 24" /></a></li>
-					</ul>
-					
-					<div class="cleaner"></div>
-					<div class="cleaner"></div>
-					
-					<div class="tooplate_paging">
-						<ul>
-							<li><a href="#" target="_parent">Previous</a></li>
-							<li><a href="#" target="_parent">1</a></li>
-							<li><a href="#" target="_parent">2</a></li>
-							<li><a href="#" target="_parent">3</a></li>
-							<li><a href="#" target="_parent">4</a></li>
-							<li><a href="#" target="_parent">5</a></li>
-							<li><a href="#" target="_parent">6</a></li>
-							<li><a href="#" target="_parent">Next</a></li>
-						</ul>
-						
-						<div class="cleaner"></div>
-					</div>
-				<div class="cleaner"></div>
-			
-			</div> <!-- end of tooplate_main -->
-			
-			<div class="cleaner"></div>
-		
-		</div><!--end of tooplate_wrapper-->
-	</div><!--end of tooplate_body_wrapper-->
-	
-	<div id="tooplate_footer_wrapper">
-		<div id="tooplate_footer">
-		
-			<div class="col_w240">
-				<h5>Recent Posts</h5>
-				<ul class="footer_link">
-					<li><a href="#">Lorem ipsum dolor sit amet</a></li>
-					<li><a href="#">Cras ut ultricies sem</a></li>
-					<li><a href="#">Aliquam erat volutpat</a></li>
-					<li><a href="#">Ut porta lacus at mattis</a></li>
-					<li><a href="#">Maecenas vel lacus id lacus</a></li>
-				</ul>
-			</div>
-			
-			<div class="col_w240">
-				<h5>Recent Comments</h5>
-				<ul class="footer_link">
-					<li><a href="#">James</a> on <a href="#">Mauris quam nibh</a></li>
-					<li><a href="#">Johnson</a> on <a href="#">Curabitur imperdiet lacus</a></li>
-					<li><a href="#">Nickey</a> on <a href="#">Donec tempor sagittis</a></li>
-					<li><a href="#">Smith</a> on <a href="#">Vestibulum porttitor eleifend</a></li>
-					<li><a href="#">George</a> on <a href="#">eNulla neque justo</a></li>
-				</ul>
-			</div>
-			
-			<div class="col_w240">
-				<h5>Blogroll</h5>
-				<ul class="footer_link">
-					<li><a href="#">Class aptent taciti</a></li>
-					<li><a href="#">Donec aliquam lorem</a></li>
-					<li><a href="#">Phasellus rhoncus</a></li>
-					<li><a href="#">Fusce tempor magna</a></li>
-					<li><a href="#">Suspendisse et quam</a></li>
-				</ul>
-			</div>
-			
-			<div class="col_w240">
-				<h5>Social Links</h5>
-				<ul class="footer_link">
-					<li><a href="#" class="facebook social">Facebook</a></li>
-					<li><a href="#" class="linkedin social">Linkedin</a></li>
-					<li><a href="#" class="myspace social">Myspace</a></li>
-					<li><a href="#" class="youtube social">Youtube</a></li>
-					<li><a href="#" class="vimeo social">Vimeo</a></li>
-				</ul>
-			</div>
-			
-			<div class="cleaner h40"></div>
-				Copyright © 2048 <a href="#">Company Name</a>
-			<div class="cleaner"></div>
-		
-		</div><!--end of tooplate_footer-->
-	</div><!--end of tooplate_footer_wrapper--> 
-  
-</body>
-</html>
+    <div class="frame-toggler" id="frame-toggler" data-translations="{&quot;label&quot;:&quot;Hide Panel&quot;}"></div>
+  </div>
+  <div
+    class="product-cart-modal-wrapper"
+    id="product-cart-modal"
+    data-type-id="1"
+    data-product-type-name="Website template"
+    data-translations="{&quot;cartTitle&quot;:&quot;Shopping Cart&quot;,&quot;titleServices&quot;:&quot;Recommended Customization Services for This Product&quot;,&quot;servicesDetailsLabel&quot;:&quot;Details&quot;,&quot;labelBack&quot;:&quot;Back to All Services&quot;,&quot;cartTop&quot;:&quot;You added to cart&quot;,&quot;continueLabel&quot;:&quot;Continue Shopping&quot;,&quot;licenseCaption&quot;:&quot;License type&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Go To Cart&quot;,&quot;priceButtonLabel&quot;:&quot;Checkout Now&quot;,&quot;freeLabel&quot;:&quot;Free&quot;,&quot;feeCaption&quot;:&quot;Handling fee&quot;,&quot;labelCusomersChoice&quot;:&quot;Customers&#039; #1 choice&quot;}"
+  ></div>
+</header>
+      <section class="content">
+    <div class="frame-wrapper" id="frame-wrapper">
+      <iframe class="frame" src="https://myworkfow.space/themes/templatemonster/" width="100%" height="400px" title="Preview Template" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-popups"></iframe>          </div>
+  </section>
+  </div>
+  <script type="application/ld+json">
+{"@context": "http://schema.org","@graph": [{"@context":"http://schema.org","@type":"WebPage","name":"Live demo for Multipurpose Portfolio By WINK Website Template #101269","url":"https://demo.templatemonster.com/demo/101269.html","description":"Multipurpose Portfolio By WINK Website Template#101269"}]}
+</script>
+  <script type="text/javascript">
+  window.__app__ = window.__app__ || {};
+  window.__app__ = {"language":"en","apiLocale":"en","analytics":{"pageType":"Type"},"js":{"cookieDomain":".templatemonster.com","liveDemoDomain":"\/\/demo.templatemonster.com\/","fontPreviewDomain":"\/\/s3f.tmimgcdn.com\/","domain":"https:\/\/www.templatemonster.com","api":{"f1":"https:\/\/www.templatemonster.com\/f1\/api","products":"https:\/\/api.templatemonster.com\/products","pages":"https:\/\/api.templatemonster.com\/pages","navigations":"https:\/\/api.templatemonster.com\/navigations","properties":"https:\/\/api.templatemonster.com\/properties","authors":"https:\/\/api.templatemonster.com\/authors","currencies":"https:\/\/api.templatemonster.com\/currencies","reviews":"https:\/\/api.templatemonster.com\/reviews","collection":"https:\/\/api.templatemonster.com\/collection","carts":"https:\/\/api.templatemonster.com\/carts","users":"https:\/\/api.templatemonster.com\/users","payment-clients":"https:\/\/api.templatemonster.com\/payment-clients","promos":"https:\/\/api.templatemonster.com\/promos","services":"https:\/\/api.templatemonster.com\/services","licenses":"https:\/\/api.templatemonster.com\/licenses","support":"https:\/\/api.templatemonster.com\/support","orders":"https:\/\/api.templatemonster.com\/orders","discounts":"https:\/\/api.templatemonster.com\/discounts","mailer":"https:\/\/api.templatemonster.com\/mailer","marketplace-services":"https:\/\/api.templatemonster.com\/marketplace-services","consul":"https:\/\/api.templatemonster.com"},"revive":{"url":"https:\/\/r.templatemonster.com\/dl\/1asyncjs.php","zoneId":14,"hash":"5dba4d01a92de7101be5c5e6e1630dfe"},"recaptchaSiteKey":"6LeaeVAdAAAAALs6W5unPcr6EWXTc5ZYpy4Irks3","centrifuge":"wss:\/\/socket.templatemonster.com","stripe":{"stripePublicKey":"pk_live_H5qyFec6DCp3zddA8UkTb5aE","stripeId":"59d3a31deebec520e279c65e"},"consulUrl":"http:\/\/api.templatemonster.com","currency":{"code":"USD","rate":1},"abExperimentId":"TDitEm4HTpe4NFhwkmf-rw","abExperimentInit":false}};
+</script>
+      <script src="//www.templatemonster.com/assets/js/commons-3cc9690538f3ccf30162.js" async="async"></script>
+<script src="//www.templatemonster.com/assets/js/demo-eee3823dbd52cf41949a.js" async="async"></script>
+<script>window.addEventListener('load', function() {
+window.dataLayer = window.dataLayer || []; window.dataLayer.push({"pageType":"Cross-page","portalName":"All","portalContent":"All","categoryName":"Other"});
+});
+window.addEventListener('load', function() {
+  window.dataLayer = window.dataLayer || []; window.dataLayer.push({"event":"detailView","ecommerce":{"detail":{"products":[{"name":"Website template","id":"101269","price":0.41,"brand":"Website templates","category":"Artist Portfolio Templates","variant":"premium"}]}}});window.dataLayer.push({"event":"detailViewNew","productDetailView":{"name":"Multipurpose Portfolio By WINK Website Template","id":"101269","price":0.41,"brand":"Website templates","category":"Artist Portfolio Templates","variant":"premium","imageurl":"https:\/\/s.tmimgcdn.com\/scr\/800x500\/101200\/multipurpose-portfolio-by-wink-website-template_101269-5-original.jpg","similars":[]}});
+});</script>  </body>
+  </html>
